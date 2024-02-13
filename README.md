@@ -19,8 +19,8 @@
 **_Added in v 2.0 :_**
 
 - _useSWR_
-- _Lazy Loading - Suspense_
 - _React Redux_
+- _Lazy Loading - Suspense_
 
 **_Changes in v 2.0_ :**
 
