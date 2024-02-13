@@ -30,12 +30,6 @@ _Removal of **React Aria IfcCanvas**, and use of **Drawer - MUI**_
 
 - _React toolkit_
 
----
-
-[![Video demo ]](https://github.com/immohammadrezatavakkoli/coffeeshop/assets/100797809/487d078b-175f-4ce1-bfde-ec090de69ea7)
-
----
-
 **_Preview_**
 
 ![00](https://github.com/immohammadrezatavakkoli/coffeeshop/assets/100797809/48ca8c09-cd3e-420a-a52d-f31ed20c51d1)
